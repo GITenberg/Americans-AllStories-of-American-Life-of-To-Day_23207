@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25753'
     url: http://www.gutenberg.org/2009/agents/25753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23207#Americans-AllStories-of-American-Life-of-To-Day
 gutenberg_issued: '2007-10-26'
 gutenberg_type: Text
 identifiers:
