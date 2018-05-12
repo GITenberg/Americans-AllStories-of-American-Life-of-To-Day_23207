@@ -1,0 +1,41 @@
+_repo: Americans-AllStories-of-American-Life-of-To-Day_23207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Heydrick, Benjamin A. (Benjamin Alexander)
+    birthdate: 1871
+    deathdate: 1931
+    gutenberg_agent_id: '25753'
+    url: http://www.gutenberg.org/2009/agents/25753
+description: ''
+gutenberg_issued: '2007-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: The Right Promethean Fire, by Martin -- Sketch of George Madden Martin
+  -- The Land of Heart's Desire, by Kelly -- Sketch of Myra Kelly -- The Tenor, by
+  Bunner -- Sketch of H. C. Bunner -- The Passing of Priscilla Winthrop, by White
+  -- Sketch of William Allen White -- The Gift of the Magi, by Henry -- Sketch of
+  O. Henry -- The Gold Brick, by Whitlock -- Sketch of Brand Whitlock -- His Mother's
+  Son, by Ferber -- Sketch of Edna Ferber -- Bitter-Sweet, by Hurst -- Sketch of Fannie
+  Hurst -- The Riverman, by White -- Sketch of Stewart E. White -- Flint and Fire;
+  How "Flint and Fire" Started and Grew, by Canfield -- Sketch of Dorothy Canfield
+  -- The Ordeal at Mt. Hope, by Dunbar -- Sketch of Paul Laurence Dunbar -- Israel
+  Drake, by Mayo -- Sketch of Katherine Mayo -- The Struggles and Triumph of Isidro
+  de los Maestros, by Hopper -- Sketch of James M. Hopper -- The Citizen, by Dwyer
+  -- Sketch of James F. Dwyer.
+title: 'Americans All
+
+  Stories of American Life of To-Day'
+url: http://www.gutenberg.org/ebooks/23207
